@@ -9,7 +9,7 @@ public class Myproflile
 {
     public static void main (String[] args)
     {
-        System.out.println("Devan");
+        System.out.println("John");
         System.out.println("Hobby practicing art");
         System.out.print("Learning how network worsk");
     }
